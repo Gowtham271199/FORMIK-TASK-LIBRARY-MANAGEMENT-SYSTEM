@@ -13,7 +13,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="text-light"
           >
-            SHANMUGAM R <FaLinkedin size={30} />
+
           </a>
         </p>
       </div>
